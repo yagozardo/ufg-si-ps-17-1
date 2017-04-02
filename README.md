@@ -1,5 +1,5 @@
-# 
-## Grupo 2 
+# Grupo 2 - Projeto de Software
+## Sistema de Controle de Tarefas 
 Repositorio para a disciplina de Projeto de Software do curso de Sistemas de Informação da Universidade Federal de Goiás - Semestre 2017-1.
 ### Integrantes
 * [Breno Cruvinel](https://github.com/breeeenoc) 
