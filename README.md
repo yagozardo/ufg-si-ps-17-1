@@ -5,7 +5,7 @@ Repositorio para a disciplina de Projeto de Software do curso de Sistemas de Inf
 * [Breno Cruvinel](https://github.com/breeeenoc) 
 * [Gleidimar Luiz](https://github.com/zeewstyle)
 * [Jarison Vinho](https://github.com/jarisonvinho)
-* [Renan Gustavo]()
+* [Renan Ramos](https://github.com/vouks)
 * [Yago Zardo](https://github.com/yagozardo)˙˙˙
 
 ### Etapas do Projeto
