@@ -11,3 +11,7 @@ Repositorio para a disciplina de Projeto de Software do curso de Sistemas de Inf
 ### Etapas do Projeto
 #### Etapa 1 - Modelo de Caso de Uso (MCU)
 Diagrama e descrições dos casos de Uso
+
+#### Etapa 2 - Protótipos
+Desenvolver os protótipos para todas as telas/formulários do sistema
+utilizando ferramenta de prototipação rápida
