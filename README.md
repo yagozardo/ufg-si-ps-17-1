@@ -6,7 +6,7 @@ Repositorio para a disciplina de Projeto de Software do curso de Sistemas de Inf
 * [Gleidimar Luiz](https://github.com/zeewstyle)
 * [Jarison Vinho](https://github.com/jarisonvinho)
 * [Renan Ramos](https://github.com/vouks)
-* [Yago Zardo](https://github.com/yagozardo)˙˙˙
+* [Yago Zardo](https://github.com/yagozardo)
 
 ### Etapas do Projeto
 #### Etapa 1 - Modelo de Caso de Uso (MCU)
@@ -17,3 +17,7 @@ Desenvolver os protótipos para todas as telas/formulários do sistema utilizand
 
 #### Etapa 3 - UML
 Desenvolver o diagrama de classes para toda a aplicação.
+
+#### Etapa 4 - Diagrama de Arquitetura (DA)
+Elaborar o diagrama da arquitetura do projeto seguindo ao
+modelo MVC (Model-View-Controller).
